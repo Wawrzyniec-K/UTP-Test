@@ -1,5 +1,7 @@
 ///TODO: musimy dodać brakujące klasy!
 
+///Ok ja się tym zajmę.
+
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
